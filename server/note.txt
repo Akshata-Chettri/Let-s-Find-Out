@@ -1,0 +1,6 @@
+used: 
+    cors    - Cross Origin Request
+    dotenv  - secure environment variables
+    express - backend framework
+    nodemon - to keep application running when made changes
+    openai
