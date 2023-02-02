@@ -108,9 +108,8 @@ const handleSubmit = async (e) => {
 
     alert(err);
   }
+
 }
-
-
 
 // check if submitted
 form.addEventListener('submit', handleSubmit)
